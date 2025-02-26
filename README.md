@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aidmuk123
+- 👋 Hi(or bonjour,salut,konichiwa,hello and hola)I’m @Aidmuk123
 - 👀 I’m interested in different flavours of pizza
 - 🌱 I’m currently learning how to make a README
 - 💞️ I’m looking to collaborate on living
